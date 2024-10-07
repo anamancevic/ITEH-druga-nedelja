@@ -1,4 +1,7 @@
+<?php
+session_start();
 
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -64,7 +67,7 @@
                 </tr>
                 <?php
             }
-            } ?>
+        ?>
             </tbody>
         </table>
         <div class="row" >
